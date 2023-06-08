@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "code": "0001",
+      "description": "Apple Juice",
+      "cost": 20,
+      "price": 40
+    }
+  ]
+}
